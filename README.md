@@ -72,3 +72,26 @@ These techniques help generate more relevant and realistic ideas.
 ---
 
 ## 📁 Project Structure
+├── README.md
+├── prompt.txt
+├── sample_outputs.txt
+
+---
+
+## 🔮 Future Improvements
+- Add a simple web interface  
+- Improve prompt design for niche industries  
+- Generate multiple ideas with ranking  
+
+---
+
+## 🎓 Learning Context
+This project was built by applying:
+- Generative AI fundamentals learned through structured coursework  
+- Hands-on practice with real-world AI tools  
+- Independent experimentation with prompt design  
+
+---
+
+## 🏆 Author
+Daksha Sivaraj Sajjan

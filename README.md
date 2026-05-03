@@ -20,12 +20,12 @@ This project was created after learning Generative AI fundamentals and experimen
 
 ## ⚙️ How It Works
 
-### User Inputs:
+### User Inputs
 - Industry
 - Target Audience
 - Budget Level
 
-### Generated Output:
+### Generated Output
 - Startup Name
 - Problem Statement
 - Solution
@@ -51,9 +51,11 @@ This project was created after learning Generative AI fundamentals and experimen
 Industry: EdTech
 Audience: College Students
 Budget: Low
+```
+
 ### Output
-Startup Name:
-StudySprint
+```text
+Startup Name: StudySprint
 
 Problem:
 Students struggle with last-minute exam preparation.
@@ -61,63 +63,62 @@ Students struggle with last-minute exam preparation.
 Solution:
 AI-generated quick revision guides for students.
 
+Target Market:
+College Students
+
 Business Model:
-Freemium subscription model.USP:Personalized and fast learning support.
+Freemium subscription model
 
 USP:
-Personalized and fast learning support.
+Personalized and fast learning support
 
-## Demo
+Potential Risks:
+High competition
+```
+
+---
+
+## 🖼️ Demo
 
 ![Demo](screenshots/demo.png)
 
-🛠️ Tech Stack
+---
 
-Python
+## 🛠️ Tech Stack
+- Python
+- Google Colab
 
-Google Colab 
+---
 
+## 📁 Project Files
 
-
-📁 Project Files
+```text
 Startup-Idea-Generator/
 │
 ├── Startup_Idea_Generator.ipynb
-├── README.md├── sample_outputs.txt
+├── README.md
+├── sample_outputs.txt
 └── screenshots/
+```
 
-🔮 Future Improvements
+---
 
+## 🔮 Future Improvements
+- Add more industries and startup categories
+- Improve output variety
+- Build a simple web interface
+- Add startup idea ranking system
 
-Add more industries and startup categories
+---
 
-
-Improve output variety
-
-
-Build a simple web interface
-
-
-Add startup idea ranking system
-
-
-
-🎓 Learning Journey
+## 🎓 Learning Journey
 This project was built while learning:
+- Generative AI fundamentals
+- Prompt engineering concepts
+- AI-assisted workflows
+- Practical Python implementation
 
+---
 
-Generative AI fundamentals
-
-
-Prompt engineering concepts
-
-
-AI-assisted workflows
-
-
-Practical Python implementation
-
-
-
-🏆 Author
+## 🏆 Author
 Daksha Sivaraj Sajjan

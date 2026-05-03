@@ -23,7 +23,10 @@ This project was built while learning and exploring:
 - Generative AI fundamentals through programs by :contentReference[oaicite:0]{index=0}
 - Prompt engineering and AI productivity workflows through learning resources from :contentReference[oaicite:1]{index=1}
 
-The project was created to apply these concepts in a practical, hands-on Python implementation.
+This project was created to apply these concepts in a practical, hands-on Python implementation.
+
+
+
 ---
 
 ## ⚙️ How It Works

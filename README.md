@@ -20,9 +20,8 @@ This project was created after learning Generative AI fundamentals and experimen
 ## 📜 Learning & Certifications
 
 This project was built while learning and exploring:
-- Generative AI fundamentals through programs by :contentReference[oaicite:0]{index=0}
-- Prompt engineering and AI productivity workflows through learning resources from :contentReference[oaicite:1]{index=1}
-
+- Generative AI fundamentals through programs by Google
+- Prompt engineering and AI productivity workflows through learning resources from Microsoft
 This project was created to apply these concepts in a practical, hands-on Python implementation.
 
 

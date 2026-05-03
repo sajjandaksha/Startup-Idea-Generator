@@ -77,6 +77,15 @@ High competition
 ```
 
 ---
+## ▶️ How to Run
+
+1. Open the notebook in Google Colab
+2. Run all cells
+3. Enter:
+   - Industry
+   - Target Audience
+   - Budget Level
+4. View the generated startup idea
 
 ## 🖼️ Demo
 

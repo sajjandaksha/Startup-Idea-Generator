@@ -86,13 +86,13 @@ High competition
    - Target Audience
    - Budget Level
 4. View the generated startup idea
+   
+---
 
 ## 🖼️ Demo
 
 <img width="655" height="511" alt="Screenshot 2026-05-03 at 7 45 40 AM" src="https://github.com/user-attachments/assets/d027d9d7-965e-4a41-bea8-05b2b3f633bd" />
 <img width="600" height="512" alt="Screenshot 2026-05-03 at 7 47 09 AM" src="https://github.com/user-attachments/assets/cf908ae1-7590-40ef-bbfb-165239f76666" />
-<img width="844" height="521" alt="Screenshot 2026-05-03 at 7 47 44 AM" src="https://github.com/user-attachments/assets/fd3488f4-4e63-44fb-bef1-bb65f277b429" />
-
 
 
 ---

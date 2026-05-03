@@ -1,0 +1,148 @@
+==============================
+SAMPLE OUTPUT 1
+==============================
+
+Industry: EdTech
+Audience: College Students
+Budget: Low
+
+Startup Name:
+StudySprint
+
+Problem:
+Students struggle with last-minute exam preparation and lack quick revision resources.
+
+Solution:
+An AI-inspired platform that generates concise revision guides and practice quizzes for students.
+
+Target Market:
+College Students
+
+Business Model:
+Freemium subscription model
+
+USP:
+Fast and personalized learning support
+
+Potential Risks:
+High competition in the EdTech industry
+
+
+==============================
+SAMPLE OUTPUT 2
+==============================
+
+Industry: FinTech
+Audience: Young Professionals
+Budget: Medium
+
+Startup Name:
+FinPilot
+
+Problem:
+Young professionals often struggle with budgeting and expense management.
+
+Solution:
+A smart budgeting assistant that tracks spending habits and provides personalized savings suggestions.
+
+Target Market:
+Young Professionals
+
+Business Model:
+Monthly subscription model
+
+USP:
+Simple and beginner-friendly financial insights
+
+Potential Risks:
+User retention and financial data privacy concerns
+
+
+==============================
+SAMPLE OUTPUT 3
+==============================
+
+Industry: Health
+Audience: Elderly People
+Budget: High
+
+Startup Name:
+HealthSync
+
+Problem:
+Elderly individuals often miss medication schedules and health check reminders.
+
+Solution:
+A digital health companion that provides medication reminders and daily wellness tracking.
+
+Target Market:
+Elderly People
+
+Business Model:
+Subscription + healthcare partnerships
+
+USP:
+Easy-to-use interface designed for senior citizens
+
+Potential Risks:
+Technology adoption challenges among older users
+
+
+==============================
+SAMPLE OUTPUT 4
+==============================
+
+Industry: EdTech
+Audience: School Students
+Budget: Medium
+
+Startup Name:
+SkillSpark
+
+Problem:
+Students lose interest in long and repetitive online learning sessions.
+
+Solution:
+A gamified micro-learning platform with short interactive lessons and rewards.
+
+Target Market:
+School Students
+
+Business Model:
+Freemium with premium learning packs
+
+USP:
+Engaging and interactive learning experience
+
+Potential Risks:
+Maintaining long-term student engagement
+
+
+==============================
+SAMPLE OUTPUT 5
+==============================
+
+Industry: FinTech
+Audience: Small Business Owners
+Budget: High
+
+Startup Name:
+QuickLedger
+
+Problem:
+Small businesses struggle to manage invoices and cash flow efficiently.
+
+Solution:
+A lightweight financial management platform for invoice tracking and automated expense reports.
+
+Target Market:
+Small Business Owners
+
+Business Model:
+B2B SaaS subscription
+
+USP:
+Affordable and easy-to-use business finance tools
+
+Potential Risks:
+Competition from established finance software providers
